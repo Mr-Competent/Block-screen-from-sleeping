@@ -1,4 +1,4 @@
-# Block-Screen-from-Sleeping
+# Block-Screen-from-AUTO-Sleeping
 This will Block Screen from auto Sleeping.
 
 # Required Modules
