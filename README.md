@@ -1,11 +1,7 @@
 # Block-Screen-from-AUTO-Sleeping
 This will Block Screen from auto Sleeping.
 
-# Required Modules
-  ## pyautogui
-     pip install pyautogui   (for windows)
-     pip3 install pyautogui  (for linux)
-     
+# Required Modules   
   ## keyboard
      pip install keyboard    (for windows)
      pip3 install keyboard   (for linux)
@@ -15,8 +11,11 @@ This will Block Screen from auto Sleeping.
       
   ## os
      Available by Default
+     
+  ## time
+     Available by Default
+     
 ```diff     
-- ***This program will block Mouse movement.
-+ ***Use ESCAPE or SPACE to exit program.
++ *** press ESCAPE to exit the program.
 
   
